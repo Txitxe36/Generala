@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\visual studio 2019\Generala\bin\Debug\Generala.exe.config
+C:\Users\Usuario\Desktop\visual studio 2019\Generala\bin\Debug\Generala.exe
+C:\Users\Usuario\Desktop\visual studio 2019\Generala\bin\Debug\Generala.pdb
+C:\Users\Usuario\Desktop\visual studio 2019\Generala\obj\Debug\Generala.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\visual studio 2019\Generala\obj\Debug\Generala.Form1.resources
+C:\Users\Usuario\Desktop\visual studio 2019\Generala\obj\Debug\Generala.Properties.Resources.resources
+C:\Users\Usuario\Desktop\visual studio 2019\Generala\obj\Debug\Generala.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\visual studio 2019\Generala\obj\Debug\Generala.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\visual studio 2019\Generala\obj\Debug\Generala.exe
+C:\Users\Usuario\Desktop\visual studio 2019\Generala\obj\Debug\Generala.pdb
+C:\Users\Usuario\Desktop\visual studio 2019\Generala\obj\Debug\Generala.Jugar.resources
+C:\Users\Usuario\Desktop\visual studio 2019\Generala\obj\Debug\Generala.Jugar2.resources
+C:\Users\Usuario\Desktop\visual studio 2019\Generala\obj\Debug\Generala.Ganador.resources
+C:\Users\Usuario\Desktop\visual studio 2019\Generala\obj\Debug\Generala.Reglas.resources
